@@ -1,2 +1,2 @@
 # wordCount
-C Program to count number of words
+C Program to sort a string
