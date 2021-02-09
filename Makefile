@@ -1,3 +1,3 @@
 all:
-	gcc -Wall -o unit_test unit_test.c wordSort.c
-	./unit_test
+	gcc -Wall -o wordCount test.c wordSort.c
+	./wordCount
